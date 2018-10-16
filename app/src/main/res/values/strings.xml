@@ -1,0 +1,4 @@
+<resources>
+    <string name="refresh_button">Refresh</string>
+    <string name="has_issues">No issue</string>
+</resources>
